@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://anton-s-workspace-8sqcf1.eu-central-1.xata.sh/db/letoved",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
